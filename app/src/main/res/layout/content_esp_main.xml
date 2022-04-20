@@ -47,7 +47,7 @@
             android:alpha="0.5"
             android:lineSpacingExtra="6sp"
             android:text="@string/powered_by_esp"
-            android:textColor="@color/colorPrimaryDark"
+            android:textColor="@color/colorPrimary"
             android:textSize="12sp" />
 
         <TextView
@@ -58,7 +58,7 @@
             android:alpha="0.5"
             android:lineSpacingExtra="6sp"
             android:text="@string/app_version"
-            android:textColor="@color/colorPrimaryDark"
+            android:textColor="@color/colorPrimary"
             android:textSize="12sp" />
 
     </LinearLayout>
